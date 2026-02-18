@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Last Song",
+  "base_artist": "GACKT",
+  "createdAt": "2026-02-18T00:06:50.564708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Lucky Soul",
+      "has_synced": false,
+      "path": "select/01_The_Last_Song_Lucky_Soul.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Trisomie 21",
+      "has_synced": false,
+      "path": "select/02_The_Last_Song_Trisomie_21.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Trisomie 21",
+      "has_synced": true,
+      "path": "select/03_The_Last_Song_Trisomie_21.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Last Song but One",
+      "artist": "The Bluetones",
+      "has_synced": true,
+      "path": "select/04_The_Last_Song_but_One_The_Bluetones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Song",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/05_Last_Song_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Epic Last Song",
+      "artist": "Does It Offend You, Yeah?",
+      "has_synced": true,
+      "path": "select/06_Epic_Last_Song_Does_It_Offend_You,_Yeah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Song For B",
+      "artist": "Devendra Banhart",
+      "has_synced": true,
+      "path": "select/07_Last_Song_For_B_Devendra_Banhart.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Song",
+      "artist": "Before the Dawn",
+      "has_synced": true,
+      "path": "select/08_Last_Song_Before_the_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Iggy Azalea",
+      "has_synced": true,
+      "path": "select/09_The_Last_Song_Iggy_Azalea.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Poison",
+      "has_synced": false,
+      "path": "select/10_The_Last_Song_Poison.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Fates Warning",
+      "has_synced": false,
+      "path": "select/11_The_Last_Song_Fates_Warning.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/12_The_Last_Song_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Last Song I Will Ever Write About a Girl",
+      "artist": "The Ataris",
+      "has_synced": true,
+      "path": "select/13_The_Last_Song_I_Will_Ever_Write_About_a_Girl_The_Ataris.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_The_Last_Song_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Last Song I'm Wasting on You",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/15_The_Last_Song_I'm_Wasting_on_You_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Last Song",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/16_The_Last_Song_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Last Song Ever Written",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/17_The_Last_Song_Ever_Written_Stars.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Song",
+      "artist": "GACKT",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Song_GACKT.txt"
+    }
+  ]
+}
